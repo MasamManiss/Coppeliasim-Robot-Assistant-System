@@ -31,3 +31,14 @@ Make sure you have the following software and dependencies installed:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/username/repository.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Robot-Assistant-System
+   ```
+3. Install the necessary Python packages:
+   ```bash
+   pip install coppeliasim zmq pyaudio numpy opencv-python pathfinding spacy
+   ```
+4. Download and install CoppeliaSim
+   (https://www.coppeliarobotics.com/)
