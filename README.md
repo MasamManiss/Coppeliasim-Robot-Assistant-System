@@ -33,9 +33,8 @@ Make sure you have the following software and dependencies installed:
    ```bash
    pip install coppeliasim zmq pyaudio numpy opencv-python pathfinding spacy
    ```
-2. Download this (Python file)[https://github.com/MasamManiss/Robot-Assistant-System/blob/main/Final.py]   
-3. Download and install CoppeliaSim
-   (https://www.coppeliarobotics.com/)
+2. Download this [Python file](https://github.com/MasamManiss/Robot-Assistant-System/blob/main/Final.py)   
+3. Download and install [CoppeliaSim](https://www.coppeliarobotics.com/)
    
 4. Download this [CoppeliaSim Scene](https://github.com/MasamManiss/Robot-Assistant-System/blob/main/Final.ttt)
    
