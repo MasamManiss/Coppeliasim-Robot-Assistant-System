@@ -42,3 +42,4 @@ Make sure you have the following software and dependencies installed:
    ```
 4. Download and install CoppeliaSim
    (https://www.coppeliarobotics.com/)
+5. Download this [CoppeliaSim Scene] ()
