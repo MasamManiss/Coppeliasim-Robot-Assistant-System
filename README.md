@@ -3,8 +3,6 @@
 
 This project allows you to control a robot and manipulate objects in a simulated environment using voice commands. The robot navigates through the environment, picks up colored spheres, and stores or moves them to different locations as instructed.
 
-## Context
-
 
 ## User Installation Instructions
 
