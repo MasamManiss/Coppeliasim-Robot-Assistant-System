@@ -38,3 +38,11 @@ Make sure you have the following software and dependencies installed:
 4. Download this [CoppeliaSim Scene](https://github.com/MasamManiss/Robot-Assistant-System/blob/main/Final.ttt)
    
 5. Open the scene and run the python file simultaneously
+6. How to Operate
+   Once the program is run. You are prompt to press 'spacebar' to record your command in 4 seconds. Below are some of the commands you can execute.
+
+   | Navigation Command | Object Retrieval Command |
+   |--------------------|--------------------------|
+   | Go to room 1       | Take red ball            |
+   | Move to room 2     | Pass me the blue ball    |
+   | Head to room 3     | Store this               |
