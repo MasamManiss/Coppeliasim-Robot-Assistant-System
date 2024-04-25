@@ -5,8 +5,6 @@ This project allows you to control a robot and manipulate objects in a simulated
 
 ## Context
 
-![Robot and Object Manipulation](https://github.com/MasamManiss/Robot-Assistant-System/blob/main/Robot.png)
-
 
 ## User Installation Instructions
 
